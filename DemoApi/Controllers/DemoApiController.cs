@@ -13,7 +13,7 @@ namespace DemoApi.Controllers
     /// User コントローラー
     /// </summary>
     [Route("[controller]")]
-    public class DemoApiController : ControllerBase1
+    public class DemoApiController : ControllerBase
     {
         // loggerとuserRepositoryを定義する
         private readonly ILogger<DemoApiController> logger;
