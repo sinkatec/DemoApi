@@ -1,2 +1,2 @@
 # DemoApi
-ASP.NET CoreとVueJs技術を基づいてのデモ工程
+ASP.NET Core3.1デモ工程
